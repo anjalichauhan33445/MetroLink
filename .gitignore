@@ -1,0 +1,32 @@
+# python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# streamlit
+.streamlit/
+
+# model files
+*.joblib
+
+# data files (uncomment if large/private)
+# *.csv
+
+# environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
