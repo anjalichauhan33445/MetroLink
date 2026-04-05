@@ -26,10 +26,10 @@ This app provides real-time insights into metro station crowd density and helps 
 ## Installation
 
 1. Clone the repository  
-   git clone https://github.com/anjalichauhan33445/METROLINK_PROJECT.git  
+   git clone https://github.com/anjalichauhan33445/MetroLink.git  
 
 2. Go into the folder  
-   cd METROLINK_PROJECT  
+   cd MetroLink
 
 3. Install dependencies  
    pip install -r requirements.txt  
@@ -43,7 +43,7 @@ Open in browser: http://localhost:8501
 
 ## File Structure
 
-METROLINK_PROJECT/
+MetroLinkT/
 - app.py
 - metro_crowd_data.csv
 - data.ipynb
@@ -52,7 +52,6 @@ METROLINK_PROJECT/
 - README.md
 - .gitignore
 
-Note: The trained model file (metrolink_model.joblib) is not included in the repository.
 
 ---
 
