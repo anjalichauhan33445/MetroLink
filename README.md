@@ -37,13 +37,13 @@ This app provides real-time insights into metro station crowd density and helps 
 4. Run the app  
    streamlit run app.py  
 
-Open in browser: http://localhost:8501
+
 
 ---
 
 ## File Structure
 
-MetroLinkT/
+MetroLink/
 - app.py
 - metro_crowd_data.csv
 - data.ipynb
