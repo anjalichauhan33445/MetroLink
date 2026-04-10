@@ -17,7 +17,7 @@ env/
 .streamlit/
 
 # model files
-*.joblib
+#*.joblib
 
 # data files (uncomment if large/private)
 # *.csv
